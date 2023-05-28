@@ -34,3 +34,8 @@
 * justify-items -justify-items will align child elements along the row axis.
 * :: first-letter - The ::first-letter pseudo-selector allows you to target the first letter in the text content of an element.
 * place-items - The place-items property is used in grid layout, and is a shorthand property for align-items and justify-items.
+
+
+## Production Link
+
+https://magazine-five.vercel.app/
